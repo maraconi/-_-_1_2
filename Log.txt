@@ -1,11 +1,16 @@
 Записываем данные в файл: 
-Дата и время записи функции: 14 September 2021  time 09:14:04
+Дата и время записи функции: 21 September 2021  time 15:47:49
 Имя функции: get_logger
 Аргументы: (), {}
 Результат: None
 ____________________
-Дата и время записи функции: 14 September 2021  time 09:14:11
-Имя функции: get_logger
+Дата и время записи функции: 21 September 2021  time 15:48:09
+Имя функции: get_path
 Аргументы: (), {}
-Результат: <generator object get_logger at 0x00000000022D2318>
+Результат: <generator object get_path at 0x0000000001DE32A0>
+____________________
+Дата и время записи функции: 21 September 2021  time 15:48:21
+Имя функции: get_path_vk
+Аргументы: ('https://cloud-api.yandex.net/v1/disk/resources/',), {}
+Результат: <generator object get_path_vk at 0x00000000035D8E58>
 ____________________
